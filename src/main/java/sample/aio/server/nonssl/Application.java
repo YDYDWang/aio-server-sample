@@ -1,4 +1,4 @@
-package sample.aio.server;
+package sample.aio.server.nonssl;
 
 import com.github.ydydwang.aio.channel.AioServerBuilder;
 
